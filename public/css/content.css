@@ -1,0 +1,14 @@
+
+.content-wrapper{
+  min-height: 1200px;  
+  position: relative;
+}
+
+.bg-sacil{
+  position: absolute;
+  opacity: 0.2; 
+  pointer-events: none;
+  left: 120px;
+  top: 200px;
+  width: 80%;
+}
